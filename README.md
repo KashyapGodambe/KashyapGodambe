@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashyap Godambe</h1>
-<h3 align="center">An experiance Software tester from Mumbai,India</h3>
+<h3 align="center">An detail oriented experienced Software tester from Mumbai,India</h3>
 <img align="right" alt="Coding" width="400" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif">
 
 - 🔭 I’m currently working on **Manual & API testing projects**
