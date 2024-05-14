@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Manual & API testing projects**
 
-- 🌱 I’m currently learning **API Automation Framework, Selenium, Automation Frameworks**
+- 🌱 I’m currently learning **API Automation Framework, Selenium, Web Automation Frameworks**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
